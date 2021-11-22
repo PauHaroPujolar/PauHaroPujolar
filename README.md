@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **everything that improves my skills.**
 
-- 👨‍💻 All of my projects are available at [by contacting me!](by contacting me!)
-
 - 💬 Ask me about **Java, Javascript, SQL, PLSQL.**
 
 - ⚡ Fun fact **I love playing videogames!**
